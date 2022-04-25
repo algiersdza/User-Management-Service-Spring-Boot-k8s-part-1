@@ -5,6 +5,8 @@ project was to demonstrate the ability of understanding DevOps by hosting two se
 and meso (Message Service) with Spring Boot to act as an API service to a mysql pod (hosted on k8s as well)
 to respond with appropriate responses (code 200 or 404/403).
 
+#### Part Two: https://github.com/algiersdza/Message-Service-Spring-Boot-k8s-part-2
+
 For simplicity to whoever is reading this I included in this repository the YAML files for mysql and umso that I used to deploy and service as well
 as the SQL files to create the database and populate.
 
